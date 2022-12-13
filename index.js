@@ -4,7 +4,7 @@ const port = 3000
 
 app.get('/', (req, res) => {
   res.send({
-      "message" : "Hello world, dockerize node js"
+      "message" : "Hallo Iftitah Hidayati, dockerize node js"
   })
 })
 
